@@ -9,6 +9,6 @@ export default class Robot1 extends Human1{
     }
 
     action1() {
-        console.log('Robot action');
+        console.log('Robot Test');
     }
 }
